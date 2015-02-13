@@ -46,7 +46,7 @@
     <dependency>
       <groupId>com.vaadin</groupId>
       <artifactId>vaadin-widgets</artifactId>
-      <version>7.4.0.beta3</version>
+      <version>7.4.0.rc1</version>
       <scope>provided</scope>
     </dependency>
     <dependency>

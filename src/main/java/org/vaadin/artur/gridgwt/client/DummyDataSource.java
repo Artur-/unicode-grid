@@ -39,9 +39,4 @@ public class DummyDataSource implements DataSource<Integer> {
 		return null;
 	}
 
-	@Override
-	public int indexOf(Integer row) {
-		return row;
-	}
-
 }
